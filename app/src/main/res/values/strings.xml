@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ElectroCarApp</string>
+    <string name="calculate_autonomy">Calculate Autonomy</string>
+    <string name="kw">KW</string>
+    <string name="km">Km</string>
+    <string name="calculate">Calculate</string>
+</resources>
